@@ -5,7 +5,7 @@ EAPI=7
 
 DESCRIPTION="Send a notification when a command terminates"
 HOMEPAGE="https://github.com/stephdewit/ntfy"
-SRC_URI="https://github.com/stephdewit/${PN}/archive/refs/tags/v${PV}.tar.gz"
+SRC_URI="https://github.com/stephdewit/${PN}/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"
