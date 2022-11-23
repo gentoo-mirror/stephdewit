@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=CLI tool to trigger IFTTT events
+EAPI=7
+HOMEPAGE=https://github.com/stephdewit/ifttt-cli
+KEYWORDS=amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-misc/jq net-misc/curl
+SLOT=0
+SRC_URI=https://github.com/stephdewit/ifttt-cli/archive/refs/tags/v1.0.0.tar.gz -> ifttt-cli-1.0.0.tar.gz
+_md5_=1904e1c115261768e4b1fb5ef6ad6928

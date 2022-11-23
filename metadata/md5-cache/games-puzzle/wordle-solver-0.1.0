@@ -1,0 +1,11 @@
+BDEPEND=dev-lang/go
+DEFINED_PHASES=-
+DESCRIPTION=CLI tool to help resolve Wordle puzzles
+EAPI=7
+HOMEPAGE=https://github.com/stephdewit/wordle-solver
+KEYWORDS=amd64 ~x86
+LICENSE=MIT
+RDEPEND=sys-apps/miscfiles sys-apps/grep
+SLOT=0
+SRC_URI=https://github.com/stephdewit/wordle-solver/archive/refs/tags/v0.1.0.tar.gz -> wordle-solver-0.1.0.tar.gz
+_md5_=bd04806cafd9dd2d4e74d720b298e81d

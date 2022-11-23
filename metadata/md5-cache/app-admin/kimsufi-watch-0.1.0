@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Send notifications when Kimsufi servers are available
+EAPI=7
+HOMEPAGE=https://github.com/stephdewit/kimsufi-watch
+KEYWORDS=amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-admin/kimsufi-cli app-misc/ntfy
+SLOT=0
+SRC_URI=https://github.com/stephdewit/kimsufi-watch/archive/refs/tags/v0.1.0.tar.gz -> kimsufi-watch-0.1.0.tar.gz
+_md5_=59bf79ea27d499e5c3ea60a859d0e05c
