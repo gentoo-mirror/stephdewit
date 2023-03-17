@@ -10,5 +10,5 @@ RDEPEND=sys-apps/miscfiles sys-apps/grep
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/stephdewit/wordle-solver/archive/refs/tags/v0.3.0.tar.gz -> wordle-solver-0.3.0.tar.gz
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	go-module	472b9e09c35add3a3da376330c033dec
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	go-module	f9700c7efec1fd4955363169e9930c1c
 _md5_=10235c3fb5bf426fd47ccb547d2d0802
