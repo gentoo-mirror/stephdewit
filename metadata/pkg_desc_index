@@ -2,5 +2,5 @@ app-admin/kimsufi-cli 0.1.0 0.1.0-r1: Command line tool to interact with Kimsufi
 app-admin/kimsufi-watch 0.1.0: Send notifications when Kimsufi servers are available
 app-misc/ntfy 1.0.0: Send a notification when a command terminates
 games-puzzle/wordle-solver 0.1.0 0.2.0 0.2.1 0.3.0: CLI tool to help resolve Wordle puzzles
-net-misc/dropbox-cli 0.1.0: Low-deps script to upload a file to Dropbox
+net-misc/dropbox-cli 0.1.0 0.1.1: Low-deps script to upload a file to Dropbox
 net-misc/ifttt-cli 1.0.0: CLI tool to trigger IFTTT events
