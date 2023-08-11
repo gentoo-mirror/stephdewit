@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Low-deps script to upload a file to Dropbox
+EAPI=7
+HOMEPAGE=https://github.com/stephdewit/dropbox-cli
+KEYWORDS=amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-misc/jq net-misc/curl
+SLOT=0
+SRC_URI=https://github.com/stephdewit/dropbox-cli/archive/refs/tags/v0.2.0.tar.gz -> dropbox-cli-0.2.0.tar.gz
+_md5_=b5897bf9400d6c84c9aca40cb6403d57
