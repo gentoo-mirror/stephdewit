@@ -1,6 +1,6 @@
 app-admin/kimsufi-cli 0.1.0 0.1.0-r1: Command line tool to interact with Kimsufi API
 app-admin/kimsufi-watch 0.1.0: Send notifications when Kimsufi servers are available
-app-misc/ntfy 1.0.0 1.1.0: Send a notification when a command terminates
+app-misc/ntfy 1.0.0 1.1.0 1.2.0: Send a notification when a command terminates
 dev-vcs/git-timer 0.1.0: Clock work session using time between commits
 games-puzzle/wordle-solver 0.1.0 0.2.0 0.2.1 0.3.0: CLI tool to help resolve Wordle puzzles
 net-misc/dropbox-cli 0.1.0 0.1.1 0.2.0 0.2.1: Low-deps script to upload a file to Dropbox
