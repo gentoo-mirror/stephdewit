@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Helper script to build kernel
+EAPI=7
+HOMEPAGE=https://github.com/stephdewit/build-kernel
+KEYWORDS=amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-arch/gzip sys-boot/lilo
+SLOT=0
+SRC_URI=https://github.com/stephdewit/build-kernel/archive/refs/tags/0.1.0.tar.gz -> build-kernel-0.1.0.tar.gz
+_md5_=3bb71e73821988414a40f8a26dd99cf7
