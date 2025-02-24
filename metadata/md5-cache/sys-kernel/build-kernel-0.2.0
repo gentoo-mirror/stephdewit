@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Helper script to build kernel
+EAPI=7
+HOMEPAGE=https://github.com/stephdewit/build-kernel
+KEYWORDS=amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-arch/gzip
+SLOT=0
+SRC_URI=https://github.com/stephdewit/build-kernel/archive/refs/tags/0.2.0.tar.gz -> build-kernel-0.2.0.tar.gz
+_md5_=cdb62afc97165d9374265f84161d0a9a
