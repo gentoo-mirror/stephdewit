@@ -2,6 +2,7 @@ app-admin/kimsufi-cli 0.1.0 0.1.0-r1: Command line tool to interact with Kimsufi
 app-admin/kimsufi-watch 0.1.0: Send notifications when Kimsufi servers are available
 app-admin/terraform 1.10.5 1.10.5-r1 1.10.5-r2: A tool for building, changing, and combining infrastructure safely
 app-misc/ntfy 1.0.0 1.1.0 1.2.0 1.2.1: Send a notification when a command terminates
+dev-python/jinja2-cli 0.8.2-r1: CLI for Jinja2
 dev-vcs/git-timer 0.1.0: Clock work session using time between commits
 games-puzzle/wordle-solver 0.1.0 0.2.0 0.2.1 0.3.0: CLI tool to help resolve Wordle puzzles
 net-misc/dropbox-cli 0.1.0 0.1.1 0.2.0 0.2.1: Low-deps script to upload a file to Dropbox
